@@ -1,0 +1,9 @@
+1. git init
+2. git add . //This add all the files & folder to the github
+3. git commit -am "initial commit" //Gives commit name
+4. git remote add origin htpps://github.com/__________.git //(______ replace with repo name)
+5. git remote -v
+6. clear //clear the screen to start push process
+7. git push origin master //pushes the code into the main github repo
+
+:) That's set code has been pushed to the github repo
